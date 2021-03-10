@@ -1,0 +1,11 @@
+<!-- ANTI BOM KLIK ADSENSE -->
+<script src='//ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js'/>
+<script async='async' src='https://cdn.staticaly.com/gh/randiid/randidotid/07996f87/antibomklik.js”/'/>
+
+////Masuk ke dashboard blog, pilih Tema > Edit HTML
+
+-Cari kode </head>, gunakan fungsi Find (CTRL + F)
+
+-Salin kode tersebut, lalu letakan (paste) di atas kode </head>
+
+-simpan.
